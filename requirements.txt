@@ -4,4 +4,4 @@ pandas
 openpyxl
 ipywidgets
 IPython
-base64
+pybase64

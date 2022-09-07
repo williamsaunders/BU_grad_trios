@@ -153,9 +153,9 @@ def create_match(df):
         if counter >= 1000:
             print('match failed, not possible')
             break
-    if counter < 1000:
-        print('took ',counter, ' tries')
-        print('match succeeded')
+    #if counter < 1000:
+    #    print('took ',counter, ' tries')
+    #    print('match succeeded')
     return df
     
 def write_match(df, pairing_round, filepath):
@@ -257,7 +257,7 @@ def event_create_match(button):
     clear_output()
     display_widget()
     possible_matches(data)
-    print('round %i possible matches complete'%round_widget.value)
+    #print('round %i possible matches complete'%round_widget.value)
 
     data = create_match(data)
     if out == 1:

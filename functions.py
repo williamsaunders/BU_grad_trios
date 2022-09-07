@@ -157,7 +157,8 @@ def create_match(df):
     #    print('took ',counter, ' tries')
     #    print('match succeeded')
     return df
-    
+
+'''  
 def write_match(df, pairing_round, filepath):
     global tmp1, tmp2
     # write current match [only] to excel spreadsheet
@@ -190,10 +191,12 @@ def write_match(df, pairing_round, filepath):
 
         tmp2.to_excel(writer, sheet_name='pairings', index=False)
         writer.save()
+'''
 
-def create_match_download_file(data):
+def create_match_download_file(data, pairing_round):
     global match_file
     match_file =  data[['first_name', 'last_name', 'email', 'BUID', 'department', 'current_group']]
+    match_file.rename(columns={'current_group':'round_%s_group'%pairing_round})
     return match_file
 
 def create_download_link(df, title="Download CSV file", filename="data.csv"):  
@@ -265,12 +268,12 @@ def event_create_match(button):
     if out == 0:
         print('round %i match failed'%round_widget.value)
 
-def event_write_match(button):
-    global data
-    clear_output()
-    display_widget()
-    write_match(data, round_widget.value, file_widget.value)
-    print('round %i match written'%round_widget.value)
+#def event_write_match(button):
+#    global data
+#    clear_output()
+#    display_widget()
+#    write_match(data, round_widget.value, file_widget.value)
+#    print('round %i match written'%round_widget.value)
 
 def event_complete_match(button):
     global data
@@ -282,7 +285,7 @@ def event_complete_match(button):
 def event_download_match(button):
     clear_output()
     display_widget()
-    match_file = create_match_download_file(data)
+    match_file = create_match_download_file(data, pairing_round)
     return create_download_link(match_file, title="download round %i match"%round_widget.value, \
                          filename="round_%i_match.csv"%round_widget.value)
 

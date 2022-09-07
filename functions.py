@@ -223,9 +223,9 @@ import_button = widgets.Button(description='Import', style=style)
 #possible_matches_botton = widgets.Button(description='Possible Matches', style=style)
 create_match_button = widgets.Button(description='Create Match', style=style)
 #write_match_button = widgets.Button(description='Write Match', style=style)
-complete_match_button = widgets.Button(description='Complete Match', style=style)
-event_download_match_button = widgets.Button(description='Download Match', style=style)
-event_download_data_button = widgets.Button(description='Download Data', style=style)
+#complete_match_button = widgets.Button(description='Complete Match', style=style)
+download_match_button = widgets.Button(description='Download Match', style=style)
+download_data_button = widgets.Button(description='Download Data', style=style)
 
 def display_widget():
     display(file_widget), \
@@ -234,9 +234,9 @@ def display_widget():
 #    display(possible_matches_botton), \
     display(create_match_button), \
 #    display(write_match_button), \
-    display(event_download_match_button), \
-    display(complete_match_button), \
-    display(event_download_data_button)
+    display(download_match_button), \
+#    display(complete_match_button), \
+    display(download_data_button)
 
 data = None
 number3groups = None
@@ -275,12 +275,12 @@ def event_create_match(button):
 #    write_match(data, round_widget.value, file_widget.value)
 #    print('round %i match written'%round_widget.value)
 
-def event_complete_match(button):
-    global data
-    clear_output()
-    display_widget()
-    complete_match(data)
-    print('round %i match complete'%round_widget.value)
+#def event_complete_match(button):
+#    global data
+#    clear_output()
+#    display_widget()
+#    complete_match(data)
+#    print('round %i match complete'%round_widget.value)
 
 def event_download_match(button):
     clear_output()
@@ -292,12 +292,13 @@ def event_download_match(button):
 def event_download_data(button):
     clear_output()
     display_widget()
+    complete_match(data)
     return create_download_link(data, title="download round %i data"%round_widget.value, \
                          filename="round_%i_data.csv"%round_widget.value)
 
 import_button.on_click(event_import)
 create_match_button.on_click(event_create_match)
-complete_match_button.on_click(event_complete_match)
+#complete_match_button.on_click(event_complete_match)
 event_download_match_button.on_click(event_download_match)
 event_download_data_button.on_click(event_download_data)
 

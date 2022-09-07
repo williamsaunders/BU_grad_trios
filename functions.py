@@ -203,20 +203,18 @@ def create_download_link(df, title="Download CSV file", filename="data.csv"):
     html = html.format(payload=payload,title=title,filename=filename)
     display(HTML(html))
 
-
-
+style = {'description_width': 'initial'}
 
 file_widget = widgets.Text(
     description='Participants file:', 
-    disabled=False)
+    disabled=False, 
+    style=style)
 
 round_widget = widgets.Dropdown(
     options=np.arange(1, 10),
     description='Matching round:', 
-    disabled=False)
-
-style = {'description_width': 'initial'}
-
+    disabled=False, 
+    style=style)
 import_button = widgets.Button(description='Import', style=style)
 possible_matches_botton = widgets.Button(description='Possible Matches', style=style)
 create_match_button = widgets.Button(description='Create Match', style=style)

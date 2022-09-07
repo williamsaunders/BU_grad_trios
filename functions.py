@@ -293,8 +293,7 @@ def event_download_data(button):
                          filename="round_%i_data.csv"%round_widget.value)
 
 import_button.on_click(event_import)
-possible_matches_botton.on_click(event_possible_matches)
-write_match_button.on_click(event_write_match)
+create_match_button.on_click(event_create_match)
 complete_match_button.on_click(event_complete_match)
 event_download_match_button.on_click(event_download_match)
 event_download_data_button.on_click(event_download_data)

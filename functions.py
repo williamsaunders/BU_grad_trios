@@ -196,7 +196,7 @@ def write_match(df, pairing_round, filepath):
 def create_match_download_file(data, pairing_round):
     global match_file
     match_file =  data[['first_name', 'last_name', 'email', 'BUID', 'department', 'current_group']]
-    match_file.rename(columns={'current_group':'round_%s_group'%pairing_round})
+    match_file.rename(columns={'current_group':'round_%s_group'%pairing_round}, inplace=True)
     return match_file
 
 def create_download_link(df, title="Download CSV file", filename="data.csv"):  

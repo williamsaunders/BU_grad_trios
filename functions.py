@@ -174,7 +174,8 @@ def write_match(df, pairing_round, filepath):
         except:
             ''
         writer.sheets = dict((ws.title, ws) for ws in book.worksheets)
-        df.to_excel(writer, sheet_name='pairings',                     columns=['first_name', 'last_name', 'email', 'BUID',  'department', 'current_group'],                     header=['first_name', 'last_name', 'email', 'BUID',  'department',                             'group %i'%int(pairing_round)], index=False)
+        df.to_excel(writer, sheet_name='pairings', \
+            columns=['first_name', 'last_name', 'email', 'BUID',  'department', 'current_group'],                     header=['first_name', 'last_name', 'email', 'BUID',  'department',                             'group %i'%int(pairing_round)], index=False)
         writer.save()
 
     elif pairing_round > 1:
@@ -216,9 +217,9 @@ round_widget = widgets.Dropdown(
     disabled=False, 
     style=style)
 import_button = widgets.Button(description='Import', style=style)
-possible_matches_botton = widgets.Button(description='Possible Matches', style=style)
+#possible_matches_botton = widgets.Button(description='Possible Matches', style=style)
 create_match_button = widgets.Button(description='Create Match', style=style)
-write_match_button = widgets.Button(description='Write Match', style=style)
+#write_match_button = widgets.Button(description='Write Match', style=style)
 complete_match_button = widgets.Button(description='Complete Match', style=style)
 event_download_match_button = widgets.Button(description='Download Match', style=style)
 event_download_data_button = widgets.Button(description='Download Data', style=style)
@@ -227,7 +228,7 @@ def display_widget():
     display(file_widget), \
     display(import_button), \
     display(round_widget), \
-    display(possible_matches_botton), \
+#    display(possible_matches_botton), \
     display(create_match_button), \
 #    display(write_match_button), \
     display(event_download_match_button), \
@@ -251,17 +252,13 @@ def event_import(button):
 
     print('imported participants')
 
-def event_possible_matches(button):
+def event_create_match(button):
     global data
     clear_output()
     display_widget()
     possible_matches(data)
     print('round %i possible matches complete'%round_widget.value)
 
-def event_create_match(button):
-    global data
-    clear_output()
-    display_widget()
     data = create_match(data)
     if out == 1:
         print('round %i match created'%round_widget.value)
@@ -297,7 +294,6 @@ def event_download_data(button):
 
 import_button.on_click(event_import)
 possible_matches_botton.on_click(event_possible_matches)
-create_match_button.on_click(event_create_match)
 write_match_button.on_click(event_write_match)
 complete_match_button.on_click(event_complete_match)
 event_download_match_button.on_click(event_download_match)

@@ -299,7 +299,7 @@ def event_download_data(button):
 import_button.on_click(event_import)
 create_match_button.on_click(event_create_match)
 #complete_match_button.on_click(event_complete_match)
-event_download_match_button.on_click(event_download_match)
-event_download_data_button.on_click(event_download_data)
+download_match_button.on_click(event_download_match)
+download_data_button.on_click(event_download_data)
 
 

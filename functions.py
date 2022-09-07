@@ -215,13 +215,15 @@ round_widget = widgets.Dropdown(
     description='Matching round:', 
     disabled=False)
 
-import_button = widgets.Button(description='Import')
-possible_matches_botton = widgets.Button(description='Possible Matches')
-create_match_button = widgets.Button(description='Create Match')
-write_match_button = widgets.Button(description='Write Match')
-complete_match_button = widgets.Button(description='Complete Match')
-event_download_match_button = widgets.Button(description='Download Match')
-event_download_data_button = widgets.Button(description='Download Data')
+style = {'description_width': 'initial'}
+
+import_button = widgets.Button(description='Import', style=style)
+possible_matches_botton = widgets.Button(description='Possible Matches', style=style)
+create_match_button = widgets.Button(description='Create Match', style=style)
+write_match_button = widgets.Button(description='Write Match', style=style)
+complete_match_button = widgets.Button(description='Complete Match', style=style)
+event_download_match_button = widgets.Button(description='Download Match', style=style)
+event_download_data_button = widgets.Button(description='Download Data', style=style)
 
 def display_widget():
     display(file_widget), \

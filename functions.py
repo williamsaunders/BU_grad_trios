@@ -285,7 +285,7 @@ def event_complete_match(button):
 def event_download_match(button):
     clear_output()
     display_widget()
-    match_file = create_match_download_file(data, pairing_round)
+    match_file = create_match_download_file(data, round_widget.value)
     return create_download_link(match_file, title="download round %i match"%round_widget.value, \
                          filename="round_%i_match.csv"%round_widget.value)
 

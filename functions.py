@@ -16,6 +16,8 @@ from ipywidgets import HBox, VBox
 from IPython.display import HTML
 import base64
 
+pd.set_option('display.max_rows', None)
+
 def find_nearest(array, value):
     array = np.asarray(array)
     idx = (np.abs(array - value)).argmin()
@@ -200,4 +202,105 @@ def create_download_link(df, title="Download CSV file", filename="data.csv"):
     html = '<a download="{filename}" href="data:text/csv;base64,{payload}" target="_blank">{title}</a>'
     html = html.format(payload=payload,title=title,filename=filename)
     display(HTML(html))
+
+
+
+
+file_widget = widgets.Text(
+    description='Participants file:', 
+    disabled=False)
+
+round_widget = widgets.Dropdown(
+    options=np.arange(1, 10),
+    description='Matching round:', 
+    disabled=False)
+
+import_button = widgets.Button(description='Import')
+possible_matches_botton = widgets.Button(description='Possible Matches')
+create_match_button = widgets.Button(description='Create Match')
+write_match_button = widgets.Button(description='Write Match')
+complete_match_button = widgets.Button(description='Complete Match')
+event_download_match_button = widgets.Button(description='Download Match')
+event_download_data_button = widgets.Button(description='Download Data')
+
+def display_widget():
+    display(file_widget), \
+    display(import_button), \
+    display(round_widget), \
+    display(possible_matches_botton), \
+    display(create_match_button), \
+#    display(write_match_button), \
+    display(event_download_match_button), \
+    display(complete_match_button), \
+    display(event_download_data_button)
+
+data = None
+number3groups = None
+number4groups = None
+
+def event_import(button):
+    global data, number3groups, number4groups
+    clear_output()
+    display_widget()
+    data = pd.read_excel(file_widget.value)
+    init(data)
+    
+    n = len(data)
+    number3groups = n // 3
+    number4groups = n - (number3groups * 3)
+
+    print('imported participants')
+
+def event_possible_matches(button):
+    global data
+    clear_output()
+    display_widget()
+    possible_matches(data)
+    print('round %i possible matches complete'%round_widget.value)
+
+def event_create_match(button):
+    global data
+    clear_output()
+    display_widget()
+    data = create_match(data)
+    if out == 1:
+        print('round %i match created'%round_widget.value)
+    if out == 0:
+        print('round %i match failed'%round_widget.value)
+
+def event_write_match(button):
+    global data
+    clear_output()
+    display_widget()
+    write_match(data, round_widget.value, file_widget.value)
+    print('round %i match written'%round_widget.value)
+
+def event_complete_match(button):
+    global data
+    clear_output()
+    display_widget()
+    complete_match(data)
+    print('round %i match complete'%round_widget.value)
+
+def event_download_match(button):
+    clear_output()
+    display_widget()
+    match_file = create_match_download_file(data)
+    return create_download_link(match_file, title="download round %i match"%round_widget.value, \
+                         filename="round_%i_match.csv"%round_widget.value)
+
+def event_download_data(button):
+    clear_output()
+    display_widget()
+    return create_download_link(data, title="download round %i data"%round_widget.value, \
+                         filename="round_%i_data.csv"%round_widget.value)
+
+import_button.on_click(event_import)
+possible_matches_botton.on_click(event_possible_matches)
+create_match_button.on_click(event_create_match)
+write_match_button.on_click(event_write_match)
+complete_match_button.on_click(event_complete_match)
+event_download_match_button.on_click(event_download_match)
+event_download_data_button.on_click(event_download_data)
+
 

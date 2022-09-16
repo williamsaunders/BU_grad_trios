@@ -5,5 +5,3 @@ openpyxl
 ipywidgets
 IPython
 pybase64
-smtplib
-ssl

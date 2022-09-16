@@ -268,6 +268,7 @@ def event_create_match(button):
     if out == 0:
         print('round %i match failed'%round_widget.value)
 
+
 #def event_write_match(button):
 #    global data
 #    clear_output()

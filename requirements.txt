@@ -5,3 +5,7 @@ openpyxl
 ipywidgets
 IPython
 pybase64
+os
+email
+ssl
+smtplib

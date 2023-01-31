@@ -1,0 +1,331 @@
+UNIQUE IDENTIFIER,Timestamp,What is your name as it appears on your BU ID?,What is your preferred first name?,What is your BU ID?,What are your pronouns?,Pronouns Cleaned,What is your BU email address?,Please retype your BU email address.,Can you attend meetups near BU's Charles River Campus?,"Are you in a Doctoral program (PhD, J.D. etc)",Which of the following Schools are you enrolled in?,Which Department or Program are you in?
+0,9/19/2022 14:04:24,Kaitlyn Alimenti ,Kate ,U72475960,she/her,She,alimenti@bu.edu,alimenti@bu.edu,Yes,Yes,Other,Other
+1,9/19/2022 14:04:56,Yicheng Chen,Yic,53547178,He,He,cyccool@bu.edu,cyccool@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+2,9/19/2022 14:05:11,Hsin Huei Chen,Hsin Huei,20145990,She/her,She,hhchen@bu.edu,hhchen@bu.edu,Yes,Yes,College of Engineering,Mechanical Engineering
+3,9/19/2022 14:05:54,Fatih Acun,Fatih ,90491656,He,He,acun@bu.edu,acun@bu.edu,Yes,Yes,College of Engineering,Computer engineering
+4,9/19/2022 14:06:38,Jason Rutberg,Jason,82729228,He/Him/His,He,jrutberg@bu.edu,jrutberg@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Biostatistics
+5,9/19/2022 14:06:46,Elmurat Ashiraliev,Elmurat,49484254,He and its derivatives,He,aelmurat@bu.edu,aelmurat@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Religion
+6,9/19/2022 14:06:48,John Cerritelli,John,43542318,He/Him,He,cerritej@bu.edu,cerritej@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Chemistry
+7,9/19/2022 14:06:54,Lina Hardin,Lina,45023871,She/Her,She,lhardin@bu.edu,lhardin@bu.edu,Yes,Yes,School of Law,Law
+8,9/19/2022 14:07:00,Ali Raza,Ali,20910632,He/Him,He,araza@bu.edu,araza@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Computer Science
+9,9/19/2022 14:07:04,Anne shapiro ,Annie ,13446921,She/her ,She,Anshap@bu.edu,Anshap@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Biostatistics
+10,9/19/2022 14:07:20,Stephen Caron,Steve,39284310,he/him,He,caronst@bu.edu,caronst@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Biology
+11,9/19/2022 14:07:22,Kai-Hsin Wu,Kai,29481079,He,He,khwu@bu.edu,khwu@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Physics
+12,9/19/2022 14:07:44,Jing Zhang,Jing,161656547,She/her,She,jzhang12@bu.edu,jzhang12@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+13,9/19/2022 14:07:54,,Eddie,58847747,He/Him,He,ecruiz@bu.edu,ecruiz@bu.edu,Yes,Yes,Other,Other
+14,9/19/2022 14:08:18,Ellena Nador,Ellena,73825537,she/her,She,elnador@bu.edu,elnador@bu.edu,Yes,Yes,Other,Other
+15,9/19/2022 14:08:29,Huyongqing Chen,Sunny,25940974,She/Her/Hers,She,chyq@bu.edu,chyq@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Physics
+16,9/19/2022 14:09:27,Mohammed Muzamil Khan,Muzamil,55195519,He/Him,He,mmkhan@bu.edu,mmkhan@bu.edu,Yes,Yes,College of Engineering,Bioinformatics
+17,9/19/2022 14:09:47,Dhimiter Cobani,Dhimiter ,75300122,him,He,dcobani@bu.edu,dcobani@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+18,1/24/2023 10:47:23,Aashraya Jha,Aash,07094460,He/Him,,aashjha@bu.edu,aashjha@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Mathematics
+19,9/19/2022 14:10:37,Joseph K. Wenzel,Joe,96854422,He/Him,He,jwenzel@bu.edu,jwenzel@bu.edu,Yes,Yes,School of Law,Law
+20,9/19/2022 14:10:52,Ugur Y. Yavuz,Ugur,87170052,he/him,He,uyyavuz@bu.edu,uyyavuz@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Computer Science
+21,9/19/2022 14:10:57,Aykut turkoglu ,Aykut ,94373068,He his him ,He,Aykutt@bu.edu,Aykutt@bu.edu,Yes,Yes,Questrom School of Business,Questrom School of Business
+22,9/19/2022 14:11:10,Imara Joroff,Imara,21820854,She/Her/Hers,She,imaraj@bu.edu,imaraj@bu.edu,Yes,Yes,School of Law,Law
+23,9/19/2022 14:11:15,Mikayla Bradsby,Meadow ,56918524,She/her/hers,She,mbradsby@bu.edu,mbradsby@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Physics
+24,9/19/2022 14:11:17,Steven Russell,Steve,86005452,he/him,He,sirusso@bu.edu,sirusso@bu.edu,Yes,Yes,School of Law,Law
+25,9/19/2022 14:11:45,Joelle Jura,Joelle,50727540,She,She,joellerj@bu.edu,joellerj@bu.edu,Yes,Yes,School of Law,Law
+26,9/19/2022 14:11:52,Savannah Schisler,Savannah,7064544,she/hers,She,sschisle@bu.edu,sschisle@bu.edu,Yes,Yes,College of Engineering,Mechanical Engineering
+27,9/19/2022 14:12:13,Paris Gappmayr,Paris,94253746,she/her,She,parisgap@bu.edu,parisgap@bu.edu,Yes,Yes,Sargent College of Health and Rehabilitation Sciences,Sargent College of Health and Rehabilitation Sciences
+28,9/19/2022 14:12:37,Qianhan Liu,Lanlan,32334825,She/her/hers,She,liuq19@bu.edu,liuq19@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Mathematics
+29,9/19/2022 14:12:58,U08519034,Souhaila,55192071,She/Her/Hers,She,souhaila@bu.edu,souhaila@bu.edu,Yes,Yes,Wheelock College of Education & Human Development,Wheelock College of Education & Human Development
+30,9/19/2022 14:13:01,Rohan Arcot,Rohan,2798110,he/him,He,rarcot@bu.edu,rarcot@bu.edu,Yes,Yes,Wheelock College of Education & Human Development,Wheelock College of Education & Human Development
+31,9/19/2022 14:13:24,Eleanor Oser,Eleanor,74961922,she/hers,She,emose@bu.edu,emose@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Philosophy
+32,9/19/2022 14:13:40,Samira Roshni Adhar,Samira,29402463,she/her,She,sadhar@bu.edu,sadhar@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+33,9/19/2022 14:14:13,Samantha Reilly,Sam,97520700,She/her,She,reillysa@bu.edu,reillysa@bu.edu,Yes,Yes,School of Theology,Theology
+34,9/19/2022 14:14:14,Irzam Sarfraz,Irzam,78507427,He/him/his,He,isarfraz@bu.edu,isarfraz@bu.edu,Yes,Yes,Faculty of Computing & Data Sciences,Faculty of Computing & Data Sciences
+35,9/19/2022 14:14:53,Siddharth Anandalingam,Siddhu,76831870,he/ him,He,siddhua@bu.edu,siddhua@bu.edu,Yes,Yes,School of Law,Law
+36,9/19/2022 14:14:59,Shannon Gonick,Shannon,43843620,she/her/hers,She,gonicksa@bu.edu,gonicksa@bu.edu,Yes,Yes,School of Law,Law
+37,9/19/2022 14:16:12,Hao Yu,Hao,59527084,she,She,imhaoyu@bu.edu,imhaoyu@bu.edu,Yes,Yes,College of Engineering,Electrical Engineering
+38,9/19/2022 14:17:01,sbandya,Shruthi ,88433987,she/her,She,sbandya@bu.edu,sbandya@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Bioinformatics
+39,9/19/2022 14:17:10,Yuanzhi Li,Ted,91100667,He/His,He,tigerlee@bu.edu,tigerlee@bu.edu,Yes,Yes,College of Engineering,Mechanical Engineering
+40,1/24/2023 9:05:56,Andrew Chen,Andrew,70016880,He/Him,,andrewdr@bu.edu,andrewdr@bu.edu,Yes,Yes,College of Engineering,Bioinformatics
+41,9/19/2022 14:19:25,Sandra Sulser Ponce de Leon,Sandra ,81764031,she/her,She,ssulser@bu.edu,ssulser@bu.edu,Yes,Yes,Other,Other
+42,9/19/2022 14:19:27,Nicolas Schneider,Nicolas,38607286,he/him,He,nschnei@bu.edu,nschnei@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Earth and Environment
+43,9/19/2022 14:20:49,Hannah M. Llende,Hannah,45947740,She/her,She,hllende@bu.edu,hllende@bu.edu,Yes,Yes,School of Law,Law
+44,9/19/2022 14:20:51,Nuo Li,Noah,320866322,He/Him,He,nuoli@bu.edu ,nuoli@bu.edu ,Yes,Yes,College of Engineering,Mechanical engineering 
+45,9/19/2022 14:20:56,Akindele Kitwana,Akinde,68730781,he/him,He,akitwana@bu.edu,akitwana@bu.edu,Yes,Yes,School of Law,Law
+46,9/19/2022 14:21:21,Hellen Huang,Hellen,34642911,she/her,She,hellenh@bu.edu,hellenh@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,"Molecular Biology, Cell Biology & Biochemistry"
+47,9/19/2022 14:21:22,Lea Stith,Lea,20900748,she/her/hers,She,lstith@bu.edu,lstith@bu.edu,Yes,Yes,Other,Other
+48,9/19/2022 14:22:26,Jingmei Yang,Jingmei,69078442,she/her,She,jmyang@bu.edu,jmyang@bu.edu,Yes,Yes,College of Engineering,Systems Engineering
+49,9/19/2022 14:22:26,Stephanie Loo,Stephanie,95-69-1695,she/her/hers,She,ssloo@bu.edu,ssloo@bu.edu,Yes,Yes,Other,Other
+50,9/19/2022 14:24:16,Zelin Ma,Zelin,49470420,he/him,He,zelinma@bu.edu,zelinma@bu.edu,Yes,Yes,College of Engineering,Electrical Engineering
+51,9/19/2022 14:24:20,Jasmine Pan,Jasmine,72399631,she/her,She,jasminep@bu.edu,jasminep@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Psychology
+52,9/19/2022 14:24:30,Mohammed Mehdi ,Mehdi ,88865438,He/him,He,mker@bu.edu,mker@bu.edu,Yes,Yes,College of Engineering,Mechanical Engineering 
+53,9/19/2022 14:25:14,Yue Qin,Yue,92937677,she/her,She,yueqin@bu.edu,yueqin@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Earth and Environment
+54,9/19/2022 14:25:39,Beverly Ge,Beverly,42782728,she/her/hers,She,bge1@bu.edu,bge1@bu.edu,Yes,Yes,Other,Other
+55,9/19/2022 14:25:56,Weerathunga Arachchige Hasini Rathsara Weerathunge,Hasini,48686279,she/her,She,hasiniw@bu.edu,hasiniw@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+56,9/19/2022 14:26:06,Nicholas,Nick,13677484,he/him/his,He,npape@bu.edu,npape@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Earth and Environment
+57,9/19/2022 14:27:29,Brit Claiborne-Naranjo,Brit,91586290,she/they,She,bcn@bu.edu,bcn@bu.edu,Yes,Yes,Wheelock College of Education & Human Development,Wheelock College of Education & Human Development
+58,9/19/2022 14:29:25,Jackie S. Kim,Jackie,62332888,she/her,She,jskim1@bu.edu,jskim1@bu.edu,Yes,Yes,Sargent College of Health and Rehabilitation Sciences,Sargent College of Health and Rehabilitation Sciences
+59,9/19/2022 14:29:39,Molly N. Hoffman,Molly,37171713,she/her,She,mnhoffma@bu.edu,mnhoffma@bu.edu,Yes,Yes,Other,Other
+60,9/19/2022 14:30:04,Dorsa Mohammadi,Dorsa,67568431,Dorsa,,dorsa@bu.edu,dorsa@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Earth and Environment
+61,9/19/2022 14:32:08,Xinru Liu,Xinru,5019113,She/her,She,xinruliu@bu.edu,xinruliu@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Mathematics
+62,1/23/2023 20:38:18,Laura Aquino,Laura,97945745,She/her,,aquino@bu.edu,aquino@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+63,9/19/2022 14:33:51,Christina Galiano,Christina ,75973991,She/her,She,cgaliano@bu.edu,cgaliano@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Psychology
+64,9/19/2022 14:33:58,Julia Huynh,Julia,49565795,she/her/hers,She,juhuynh@bu.edu,juhuynh@bu.edu,Yes,Yes,Other,Other
+65,9/19/2022 14:34:10,Jessica Rahmoune,Jessica,2855352,she/her,She,rahmoune@bu.edu,rahmoune@bu.edu,Yes,Yes,School of Law,Law
+66,9/19/2022 14:35:09,Deyanira Enriquez,Deyja,2798110,she/her,She,deyja@bu.edu,deyja@bu.edu,Yes,Yes,Wheelock College of Education & Human Development,Wheelock College of Education & Human Development
+67,9/19/2022 14:36:17,Yuhe Chang,Yuhe,36847651,He/his/him,He,yhchang@bu.edu,yhchang@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Earth and Environment
+68,9/19/2022 14:36:20,Helen Scott,Helen,99905440,she/her,She,hscott@bu.edu,hscott@bu.edu,Yes,Yes,College of Engineering,Bioinforamtics
+69,9/19/2022 14:37:19,Lauren Brown,Lauren,80146588,She/Her,She,lwbrown@bu.edu,lwbrown@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Classical Studies
+70,9/19/2022 14:40:27,Shannon Ogden,Shannon,91376617,She/her,She,ogden@bu.edu,ogden@bu.edu,Yes,Yes,Other,Other
+71,1/26/2023 9:18:28,Ava Greene,Ava ,00106166,she/her,,avgreen@bu.edu,avgreen@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Political Science
+72,9/19/2022 14:43:11,Guilherme Delfino Silva,Guilherme,47684416,he/his,He,delfino@bu.edu,delfino@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Physics
+73,9/19/2022 14:44:32,Victor Lobo,Victor,85326097,He/Him/His,He,vrolobo@bu.edu,vrolobo@bu.edu,Yes,Yes,School of Law,Law
+74,9/19/2022 14:45:08,Seoyun Hong,Stella,67158959,She/her,She,seoyun@bu.edu,seoyun@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+75,9/19/2022 14:45:09,Julia Gallini,Julia,44018094,She/her,She,jgallini@bu.edu,jgallini@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Biostatistics
+76,9/19/2022 14:47:10,Savannah Luschei,Savannah,47862184,She/her/hers,She,sluschei@bu.edu,sluschei@bu.edu,Yes,Yes,School of Law,Law
+77,9/19/2022 14:51:44,Patrick Lutz,Patrick,10743582,He/Him,He,plutz@bu.edu,plutz@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Computer Science
+78,9/19/2022 14:52:36,Erin Wolter,Erin,47409556,She/her,She,Wolter@bu.edu,Wolter@bu.edu,Yes,Yes,School of Law,Law
+79,9/19/2022 14:54:48,Attash A. Sawja,Attash,33078946,He/him,He,sawja@bu.edu ,sawja@bu.edu ,Yes,Yes,Graduate School of Arts and Sciences,Religion
+80,1/23/2023 20:39:57,Beibit Zharylkassyn ,Beibit ,81245721,He/him,,beibit@bu.edu,beibit@bu.edu,Yes,Yes,College of Engineering,Mechanical Engineering 
+81,9/19/2022 14:59:46,Noelle Pierce,Noelle,71062518,She/her/hers,She,npierce1@bu.edu ,npierce1@bu.edu ,Yes,Yes,College of Engineering,Materials Science & Engineering
+82,9/19/2022 15:00:25,Adrish Dey,Adrish ,93231930,He/Him/His,He,adrishd@bu.edu,adrishd@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Computer Science
+83,9/19/2022 15:02:52,Stephanie Pan,Stephanie,57159977,she/her,She,spangurg@bu.edu,spangurg@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Biostatistics
+84,9/19/2022 15:03:28,Samuel Imperato,Sam,69027150,he/him,He,samimp@bu.edu,samimp@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Astronomy
+85,9/19/2022 15:08:04,Hia Ming,Ming,27322860,He/Him,He,hiaming@bu.edu,hiaming@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+86,9/19/2022 15:08:27,Xunkang Tian,Xunkang,5170557,He/His/Him,He,xktian@bu.edu,xktian@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+87,9/19/2022 15:09:49,Shivam Kumar,Shivam,28361352,He/Him,He,kshivam@bu.edu,kshivam@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Chemistry
+88,9/19/2022 15:10:58,Tianchen Tang,Tianchen,56775992,he/him/his,He,tangtcm@bu.edu,tangtcm@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Mathematics
+89,9/19/2022 15:12:48,John W. Hassett,John,62709231,he,He,jhassett@bu.edu,jhassett@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+90,9/19/2022 15:13:15,Emily lamunu,Emily,1/3/3715,she/hers,She,elamunu@bu.edu,elamunu@bu.edu,Yes,Yes,School of Social Work,Social Work
+91,9/19/2022 15:16:36,Josefina Senese,Josefina,91586290,She/her,She,jsenese@bu.edu,jsenese@bu.edu,Yes,Yes,Wheelock College of Education & Human Development,Wheelock College of Education & Human Development
+92,9/19/2022 15:17:54,Harrison Liddle ,Harrison,74258518,He him ,He,Hliddle@bu.edu,Hliddle@bu.edu,Yes,Yes,School of Law,Law
+93,9/19/2022 15:19:42,Danarenae Donato,Danarenae,56291070,She/Her/Hers,She,dadonato@bu.edu,dadonato@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,History of Art & Architecture
+94,9/19/2022 15:20:18,Byungchan Kim,Kenny,83256673,He/him,He,kennykim@bu.edu,kennykim@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+95,9/19/2022 15:22:27,Lauren Rains,Lauren,95749736,she/her,She,lrains@bu.edu,lrains@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,History
+96,1/23/2023 18:41:44,Bhushan Suwal,Bhushan,43044726,he/him,,bsuwal@bu.edu,bsuwal@bu.edu,Yes,Yes,Faculty of Computing & Data Sciences,Faculty of Computing & Data Sciences
+97,9/19/2022 15:24:14,Xiaofei Qin,Xiaofei,40650203,she/her,She,qinxf@bu.edu,qinxf@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Earth and Environment
+98,9/19/2022 15:25:00,Corinne Andriola,Cori,67046683,she/her,She,andriola@bu.edu,andriola@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+99,9/19/2022 15:25:50,Eric Wellers,Eric,90962798,He/Him,He,ewelle01@bu.edu,ewelle01@bu.edu,Yes,Yes,School of Law,Law
+100,9/19/2022 15:26:33,Kit Man,Kit,11920124,He/Him/His,He,kitman@bu.edu,kitman@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Sociology
+101,9/19/2022 15:28:09,Michael Susoeff,Mike,75237862,He/him,He,msusoeff@bu.edu,msusoeff@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,"Molecular Biology, Cell Biology & Biochemistry"
+102,9/19/2022 15:28:26,Dilara Çaygara,Dilara,57631594,She/Her,She,dilarac@bu.edu,dilarac@bu.edu,Yes,Yes,College of Engineering,Electrical Engineering
+103,9/19/2022 15:30:44,Leticia Lee,Leticia,67421497,She/her,She,leticial@bu.edu,leticial@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Earth and Environment
+104,9/19/2022 15:30:57,Nirali Shah,Nirali,34943665,she/her,She,nirali05@bu.edu,nirali05@bu.edu,Yes,Yes,Sargent College of Health and Rehabilitation Sciences,Sargent College of Health and Rehabilitation Sciences
+105,9/19/2022 15:32:03,Shahabeddin Sotudian,Shahab,76193905,he/his,He,sotudian@bu.edu,sotudian@bu.edu,Yes,Yes,College of Engineering,Systems Engineering
+106,9/19/2022 15:33:01,Haylee Backs,Haylee,98180004,she/her/hers,She,hbacks@bu.edu,hbacks@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Anthropology
+107,9/19/2022 15:35:37,Maria A Camargo Cely,Alejandra,6301019,She/Her/Hers,She,acamargo@bu.edu,acamargo@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,"Ecology, Behavior, and Evolution"
+108,9/19/2022 15:35:52,Islam Faisal Abdelrasoul,Islam,70315897,he/him/his,He,islam@bu.edu,islam@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Computer Science
+109,9/19/2022 15:37:01,Charlotte Malmborg,Charlotte,68590291,She/her,She,malmborg@bu.edu,malmborg@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Earth and Environment
+110,9/19/2022 15:37:22,Jasmine Khamis,Jasmine,91586290,She/hers,She,Jmkhamis@bu.edu,Jmkhamis@bu.edu,Yes,Yes,Wheelock College of Education & Human Development,Wheelock College of Education & Human Development
+111,9/19/2022 15:41:16,Eliane Desjardins,Eliane,46864967,She/Her,She,edesjar@bu.edu,edesjar@bu.edu,Yes,Yes,Questrom School of Business,Questrom School of Business
+112,9/19/2022 15:41:26,Yue Wu,Yue,5599921,She/her,She,yw2633@bu.edu,yw2633@bu.edu,Yes,Yes,Questrom School of Business,Questrom School of Business
+113,9/19/2022 15:42:45,Christina Nowak,Christina,85801279, ,,Cnowak@bu.edu,Cnowak@bu.edu,Yes,Yes,Other,Other
+114,9/19/2022 15:43:38,,Reza,70997378,he/his/him,He,sajjadi@bu.edu,sajjadi@bu.edu,Yes,Yes,College of Engineering,Computer engineering
+115,9/19/2022 15:47:10,Caoyifu Zhou,CZ,13663632,he/him/his,He,cyfzhou@bu.edu,cyfzhou@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Sociology
+116,9/19/2022 15:47:13,Eric Wendel,Eric,75081973,he/him,He,edbw@bu.edu,edbw@bu.edu,Yes,Yes,College of Engineering,Systems Engineering
+117,9/19/2022 15:49:24,,Alicia,86685449,she/hers,She,zhanga@bu.edu,zhanga@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Earth and Environment
+118,9/19/2022 15:52:09,Efe Sencan,Efe,82217163,He/him,He,esencan@bu.edu,esencan@bu.edu,Yes,Yes,College of Engineering,Computer engineering
+119,9/19/2022 16:00:56,Kelly Wingfield,Kelly ,12254727,She/Her,She,kelwing@bu.edu,kelwing@bu.edu,Yes,Yes,Other,Other
+120,9/19/2022 16:04:18,Hongxi Wang,Hong,10769179,Null,,hongxi@bu.edu,hongxi@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+121,9/19/2022 16:06:47,Ana Morello Megias,Ana,94447714,She/Her,She,ammegias@bu.edu,ammegias@bu.edu,Yes,Yes,Other,Other
+122,9/19/2022 16:06:51,Whitney Souery,Whitney,57122355,She/her,She,Soueryw@bu.edu,Soueryw@bu.edu,Yes,Yes,Other,Other
+123,9/19/2022 16:08:39,Leslie Leung,Leslie,90332175,She/her,She,lhleung@bu.edu,lhleung@bu.edu,Yes,Yes,College of Engineering,Mechanical Engineering
+124,9/19/2022 16:22:23,Sadie L. Allen,Sadie,2945217,she/her/hers,She,sadiela@bu.edu,sadiela@bu.edu,Yes,Yes,College of Engineering,Computer engineering
+125,1/23/2023 19:07:01,Courtney Otto,Courtney ,85326097,she/her,,cotto@bu.edu,cotto@bu.edu,Yes,Yes,School of Law,Law
+126,9/19/2022 16:39:26,Kamran Vakil,Kamran,1358968,he/him/his,He,kamranv@bu.edu,kamranv@bu.edu,Yes,Yes,College of Engineering,Mechanical Engineering
+127,9/19/2022 16:43:03,Mingqi Sha,Mingqi,81275467,She/Her/Hers,She,msha@bu.edu,msha@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Biology
+128,9/19/2022 16:44:36,Talia Liu,Talia,88889450,she/her/hers,She,talialiu@bu.edu,talialiu@bu.edu,Yes,Yes,Sargent College of Health and Rehabilitation Sciences,Sargent College of Health and Rehabilitation Sciences
+129,9/19/2022 16:54:59,Neila gross,Neila ,3479511,She/her/hers,She,Ngross1@bu.edu,Ngross1@bu.edu,Yes,Yes,College of Engineering,Materials Science & Engineering
+130,9/19/2022 17:01:09,Ariel Blakey ,Ariel,75475561,she/her,She,ablakey@bu.edu,ablakey@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Psychology
+131,9/19/2022 17:03:28,Kevin E. Gauch,Kevin,36142987,he/him,He,kgauch@bu.edu,kgauch@bu.edu,Yes,Yes,School of Law,Law
+132,9/19/2022 17:05:31,Charles DeLorey,Charlie,26311098,he/him,He,deloreyc@bu.edu,deloreyc@bu.edu,Yes,Yes,College of Engineering,Mechanical engineering
+133,9/19/2022 17:08:42,Julia Davis,Julia,88960928,she/her,She,juliamda@bu.edu,juliamda@bu.edu,Yes,Yes,School of Law,Law
+134,9/19/2022 17:09:10,Daniel Nartey,Daniel,1123904,He/him,He,dnartey@bu.edu,dnartey@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Chemistry
+135,9/19/2022 17:09:12,Mao Xiang,Mao,17138082,he/him,He,mxiang@bu.edu,mxiang@bu.edu,Yes,Yes,School of Law,Law
+136,9/19/2022 17:11:42,Caryne Alexis Nicholas,Caryne,54429772,She/they/he,She,carynean@bu.edu,carynean@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,History
+137,9/19/2022 17:17:32,Ian Kieffer,Ian,11940285,he/him/his,He,ikieffer@bu.edu,ikieffer@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Earth and Environment
+138,9/19/2022 17:24:26,"Mohamed Athif, Mohammadu Rizan",Athif,71934169,He/Him,He,athif@bu.edu,athif@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+139,9/19/2022 17:24:27,Yelitza Montesino,Yelitza,71168520,she/her/hers,She,ymontesi@bu.edu,ymontesi@bu.edu,Yes,Yes,School of Law,Law
+140,9/19/2022 17:28:04,Hannah J. Lords,Hannah,71725396,She/her,She,hlords@bu.edu,hlords@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Bioinformatics
+141,9/19/2022 17:28:56,Melanie Morris ,Melanie ,41641725,She/Her/Ella,She,mmmorris@bu.edu,mmmorris@bu.edu,Yes,Yes,School of Social Work,Social Work
+142,1/23/2023 18:04:48,Diana Trujillo-Rodriguez,Diana,06390534,She,,Dianatru@bu.edu,Dianatru@bu.edu,Yes,Yes,Other,Other
+143,9/19/2022 17:32:57,,Rohin,48894665,He/him,He,rohinb96@bu.edu,rohinb96@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+144,9/19/2022 17:34:01,Trevor W. Lamb,Trevor,30834796,He/him,He,tlamb@bu.edu,tlamb@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Anthropology
+145,9/19/2022 17:46:11,Okrah Oppong,Okrah,9759505,He/him/his,He,ookrah@bu.edu,ookrah@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Linguistics
+146,9/19/2022 17:47:36,Johanna G. Herman,Johanna,88616137,She/her,She,johannah@bu.edu,johannah@bu.edu,Yes,Yes,School of Law,Law
+147,9/19/2022 17:48:09,Halim,Halim,37555401,He/Him/His,He,halopolo@bu.edu,halopolo@bu.edu,Yes,Yes,College of Engineering,Mechanical Engineering
+148,9/19/2022 17:51:46,Jacob Cantor,Jacob,78047914,he/him/his,He,jcantor@bu.edu,jcantor@bu.edu,Yes,Yes,School of Law,Law
+149,9/19/2022 17:55:12,Ayush Gupta,Ayush,7856293,He / Him,He,guptaayu@bu.edu,guptaayu@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+150,9/19/2022 17:57:52,Fernando Nogueira Lopes,Fernando,10449426,He/Him,He,flopes@bu.edu,flopes@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Philosophy
+151,9/19/2022 18:00:56,Devan Greevy,Devan,45461974,she/her,She,degreevy@bu.edu,degreevy@bu.edu,Yes,Yes,School of Law,Law
+152,9/19/2022 18:13:31,Karen Yao,Karen,63852394,she/her,She,ky259@bu.edu,ky259@bu.edu,Yes,Yes,School of Law,Law
+153,9/19/2022 18:24:12,Connor Wagaman,Connor,60227166,He/him,He,wagaman@bu.edu,wagaman@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Computer Science
+154,9/19/2022 18:25:35,Emily Dougherty ,Emily,92608474,She/Her,She,eadoughe@bu.edu,eadoughe@bu.edu,Yes,Yes,School of Law,Law
+155,9/19/2022 18:42:49,Robert Fisher,Robert,76240353,he/him,He,rjfisher@bu.edu,rjfisher@bu.edu,Yes,Yes,Other,Other
+156,9/19/2022 18:55:51,Vishal Shah,Vishal,77711458,He/Him,He,Vishalms@bu.edu,Vishalms@bu.edu,Yes,Yes,Faculty of Computing & Data Sciences,Faculty of Computing & Data Sciences
+157,9/19/2022 19:27:47,Karen Tian,Karen,13853217,she/her,She,ktian@bu.edu,ktian@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Cognitive & Neural Systems
+158,9/19/2022 20:03:11,Claire Taylor,Claire ,68134558,She/her,She,ctaylor2@bu.edu,ctaylor2@bu.edu,Yes,Yes,School of Law,Law
+159,9/19/2022 20:09:38,Michael W. Brune,Mike Brune ,8463982,he/him/his,He,mbrune@bu.edu,mbrune@bu.edu,Yes,Yes,School of Law,Law
+160,9/19/2022 20:16:13,So Young Bae ,So Young ,87274255,Miss,,soyoungb@bu.edu,soyoungb@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,"Molecular Biology, Cell Biology & Biochemistry"
+161,9/19/2022 21:15:24,Maan Qraitem,Maan,623024845,He/Him,He,mqraitem@bu.edu,mqraitem@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Computer Science
+162,9/19/2022 21:41:53,Kohaku Flynn,Kohaku,92180154,She/Her,She,kfflynn@bu.edu,kfflynn@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,English
+163,9/19/2022 21:50:32,Yidi Wu,Yidi,56374762,he/his/him,He,yidiwu88@bu.edu,yidiwu88@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Religion
+164,9/19/2022 22:08:24,Satchit Sivakumar,Satchit,U55990499,he/him,He,satchit@bu.edu,satchit@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Computer Science
+165,9/19/2022 23:12:37,Ayantika Saha,Ayantika,54526080,she/hers,She,ayantis@bu.edu,ayantis@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Physics
+166,1/23/2023 18:09:36,Dongpeng Huang,Dongpeng,21893656,She/Her,,dphuang@bu.edu,dphuang@bu.edu,Yes,Yes,College of Communication,PhD in Emerging Media Studies
+167,9/19/2022 23:13:36,Smridhi Smridhi ,Smridhi ,88955889,She/her,She,smridhi@bu.edu,smridhi@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Physics
+168,9/20/2022 0:27:37,Mohit Tamta,Mohit,8519034,He/him,He,mohitt@bu.edu,mohitt@bu.edu,Yes,Yes,School of Social Work,Social Work
+169,9/20/2022 7:03:32,Megan Nizza,Megan,78484982,she/her/hers,She,mnizza@bu.edu,mnizza@bu.edu,Yes,Yes,School of Social Work,Social Work
+170,9/20/2022 8:41:49,Blair Stowe,Blair,9801011,She/Her,She,btstowe@bu.edu,btstowe@bu.edu,Yes,Yes,School of Theology,Theology
+171,9/20/2022 9:45:52,Paloma Bagby,Paloma,12652644,she/her,She,pbagby@bu.edu,pbagby@bu.edu,Yes,Yes,School of Law,Law
+172,9/20/2022 9:53:25,Morgan Snoap,Morgan,52157235,She/her/hers,She,msnoap@bu.edu,msnoap@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,History of Art & Architecture
+173,9/20/2022 10:34:58,Xiaoran Zhu,Seamore,71581116,He/him/his,He,seamorez@bu.edu,seamorez@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Earth and Environment
+174,9/20/2022 10:38:46,Mira A. Kelly-Fair,Mira,93542629,she/her,She,mirakf@bu.edu,mirakf@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Earth and Environment
+175,9/20/2022 11:16:16,Saadia Ali,Saadia,18185430,-,,saadia@bu.edu,saadia@bu.edu,Yes,Yes,School of Law,Law
+176,9/20/2022 11:21:48,David G. Lee,David,86289151,He/Him/His,He,dglee3@bu.edu,dglee3@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+177,9/20/2022 11:30:08,Nia Bartolucci,Nia,78329245,she/her/hers,She,barto22n@bu.edu,barto22n@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Earth and Environment
+178,9/20/2022 11:44:58,Sebastian Bergman,Sebastian,19890012,He/him,He,sebergma@bu.edu,sebergma@bu.edu,Yes,Yes,School of Law,Law
+179,9/20/2022 11:54:11,Irene Zhou,Irene,86905174,she/her,She,izhou@bu.edu,izhou@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+180,9/20/2022 11:57:10,Sara Boston,Sara,38532469,she/her,She,seboston@bu.edu,seboston@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Religion
+181,9/20/2022 12:21:10,Robert Alexander,Robert,42144744,He/him,He,Rma3@bu.edu,Rma3@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Philosophy
+182,9/20/2022 12:39:11,Noah Grunberg,Noah,13947709,He/Him,He,noahg@bu.edu,noahg@bu.edu,Yes,Yes,Other,Other
+183,9/20/2022 12:52:56,Yunjie Song,Chloe,17292405,She/Her/Hers,She,yjcsong@bu.edu,yjcsong@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+184,9/20/2022 12:58:36,Austin Fendler,Austin,10993864,He/Him,He,afendler@bu.edu,afendler@bu.edu,Yes,Yes,School of Law,Law
+185,9/20/2022 15:00:07,Peter Dickson,Peter ,60050504,He/him,He,pdickson@bu.edu,pdickson@bu.edu,Yes,Yes,School of Law,Law
+186,9/20/2022 15:19:04,Nicolina Fusco,Niki,,"she,her,hers",She,nvfusco@bu.edu,nvfusco@bu.edu,Yes,Yes,Wheelock College of Education & Human Development,Wheelock College of Education & Human Development
+187,9/20/2022 16:25:31,Yutong Li,Yutong,33399427,She/her,She,ytli@bu.edu,ytli@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Psychology
+188,9/20/2022 18:29:43,Joseph Maimone,Joe,99188492,He/him,He,jmaimone@bu.edu,jmaimone@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Psychology
+189,9/20/2022 19:09:34,Allison Kaminski,Allison,48865559,she/her,She,allison9@bu.edu,allison9@bu.edu,Yes,Yes,College of Engineering,Mechanical Engineering
+190,9/20/2022 21:48:34,Kaley Rohlinger,Kaley,13177812,she/her,She,rohlink@bu.edu,rohlink@bu.edu,Yes,Yes,School of Law,Law
+191,9/20/2022 22:39:16,Mackenzie Harrison,Mackenzie,56609824,she/they,She,mpwh@bu.edu,mpwh@bu.edu,Yes,Yes,School of Law,Law
+192,1/23/2023 19:04:28,Elias Nafziger ,Elias ,02229168,He/him,,enafzig@bu.edu,enafzig@bu.edu,Yes,Yes,Other,Other
+193,9/21/2022 6:15:48,Francesca Camacho,Frankie,57193951,she/her/hers,She,fcamach@bu.edu,fcamach@bu.edu,Yes,Yes,School of Law,Law
+194,9/21/2022 10:11:40,Michael St. Germain,Michael,60749518,He/him/his,He,Mikestg@bu.edu,Mikestg@bu.edu,Yes,Yes,School of Law,Law
+195,9/21/2022 13:07:37,,Raven,31509516,She/Her,She,raveng@bu.edu,raveng@bu.edu,Yes,Yes,Other,Other
+196,9/21/2022 13:20:05,Jeffrey Alido,Jeffrey,98345155,He series,He,jalido@bu.edu,jalido@bu.edu,Yes,Yes,College of Engineering,Electrical Engineering
+197,9/21/2022 15:02:39,Puranimarie Tashima,Marie (mar-ee-ay),7046454,she/her,She,mtashima@bu.edu,mtashima@bu.edu,Yes,Yes,School of Law,Law
+198,9/21/2022 15:48:11,Steven Rome,Steven,1305380,he/him,He,srome@bu.edu,srome@bu.edu,Yes,Yes,School of Law,Law
+199,9/21/2022 17:56:25,Ani Soultanian,Ani,72418396,she/her,She,anisoul@bu.edu,anisoul@bu.edu,Yes,Yes,School of Law,Law
+200,9/21/2022 18:07:36,Zachery Casey,Zach,61160628,He/Him,He,caseyz@bu.edu,caseyz@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Computer Science
+201,9/21/2022 21:42:46,Hongjuan Xu,Xianfeng,38366338,she/her,She,xfshi@bu.edu,xfshi@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Religion
+202,9/21/2022 22:55:15,Wali Miller,Wali,25978414,he/him/his,He,wali7@bu.edu,wali7@bu.edu,Yes,Yes,School of Law,Law
+203,9/22/2022 2:46:44,Elinore Ruth Avni,Elinore,77222659,She Her,She,Elinorea@bu.edu,Elinorea@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Sociology
+204,9/22/2022 9:57:25,Hannah Aichelman,Hannah,38057241,she/her/hers,She,haich@bu.edu,haich@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Biology
+205,9/22/2022 10:12:27,Elisabeth Kotsalidis,Elisabeth,73848659,she/her/hers,She,elsakots@bu.edu,elsakots@bu.edu,Yes,Yes,School of Law,Law
+206,9/22/2022 10:49:13,Anne Billot,Anne,50576764,she,She,abillot@bu.edu,abillot@bu.edu,Yes,Yes,Other,Other
+207,9/22/2022 12:10:07,Conrad J. Meyer-Reed,Conrad,76804636,he/him,He,conradmr@bu.edu,conradmr@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Astronomy
+208,9/22/2022 15:35:01,Caroline Ahn,Caroline,55173487,She/Her,She,ahncj@bu.edu,ahncj@bu.edu,Yes,Yes,Other,Other
+209,9/22/2022 17:03:59,Bingxue Liu,Bingxue,43766257,She,She,bliu97@bu.edu,bliu97@bu.edu,Yes,Yes,College of Engineering,Electrical Engineering
+210,9/25/2022 0:03:07,Imani McCray,Imani,25314384,She/Her,She,Imccray@bu.edu,Imccray@bu.edu,Yes,Yes,School of Law,Law
+211,9/25/2022 8:27:14,Amber Normann,Amber,297553354,She her hers,She,anormann@bu.edu,anormann@bu.edu,Yes,Yes,Sargent College of Health and Rehabilitation Sciences,Sargent College of Health and Rehabilitation Sciences
+212,9/27/2022 10:37:31,Zeynep Kahraman,Zeynep,18356467,she/her,She,zeynepk@bu.edu,zeynepk@bu.edu,Yes,Yes,College of Engineering,Electrical Engineering
+213,9/27/2022 16:28:47,Vaibhav Choudhary,Vaibhav,29168211,he/him,He,vchoudh@bu.edu,vchoudh@bu.edu,Yes,Yes,College of Engineering,Electrical Engineering
+214,9/28/2022 16:47:02,Isha Kumar,Isha,35740812,she/her,She,ikumar1@bu.edu,ikumar1@bu.edu,Yes,Yes,School of Law,Law
+215,9/28/2022 18:37:27,Genevieve Dupuis,Genevieve ,08390514,She/her,She,gdupuis@bu.edu,gdupuis@bu.edu,Yes,Yes,Other,Other
+216,9/30/2022 12:54:56,KMarie Tejeda,Kay Marie,32581362,"She, her, hers",She,kmtejeda@bu.edu,kmtejeda@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Religion
+217,10/1/2022 13:51:30,Danielle Dionne,Danielle,6886967,She/her,She,Ddionne@bu.edu,Ddionne@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Linguistics
+218,10/4/2022 11:42:38,Jeric Da Anoy,JK,76233090,He/Him,He,jpdaanoy@bu.edu,jpdaanoy@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Biology
+219,10/4/2022 12:16:25,Ankita Shirahatti,Ankita,55006554,She/Hers,She,ashiraha@bu.edu,ashiraha@bu.edu,Yes,Yes,Questrom School of Business,Questrom School of Business
+220,10/4/2022 12:20:40,Daria Dragicevic,Daria,63437935,she/hers,She,ddragic@bu.edu,ddragic@bu.edu,Yes,Yes,Sargent College of Health and Rehabilitation Sciences,Sargent College of Health and Rehabilitation Sciences
+221,10/4/2022 12:33:21,Maria Angelica Concepcion,Angelica,27136704,She/ her/ hers,She,angcon@bu.edu,angcon@bu.edu,Yes,Yes,Sargent College of Health and Rehabilitation Sciences,Sargent College of Health and Rehabilitation Sciences
+222,10/4/2022 13:21:42,Melissa Joseph,Melissa ,14202533,She/her,She,mjoseph2@bu.edu,mjoseph2@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Astronomy
+223,10/4/2022 16:18:59,Tiernan J. Cahill,Tiernan,10515972,he/him,He,tjcahill@bu.edu,tjcahill@bu.edu,Yes,Yes,College of Communication,PhD in Emerging Media Studies
+224,10/4/2022 16:42:46,Jupitara Ray,Jupitara,80884705,she/her,She,jupitara@bu.edu,jupitara@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Linguistics
+225,10/4/2022 19:12:37,Indrani Alagar,Indra,92556300,She/Her/Hers,She,ialagar@bu.edu,ialagar@bu.edu,Yes,Yes,Other,Other
+226,10/5/2022 11:46:34,Rahul Mitra,Rahul ,27652521,He/him,He,rahulm@bu.edu,rahulm@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Computer Science
+227,10/8/2022 12:39:14,William Saunders,Will,90747427,he/him/his,He,wsaund@bu.edu,wsaund@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Astronomy
+228,10/10/2022 14:37:16,Kristian Kohler,Kristian,04933263,he/him/his,He,kckohler@bu.edu,kckohler@bu.edu,Yes,Yes,School of Theology,Theology 
+229,10/12/2022 13:57:03,Anastasia Leshchyk,Anastasia,52674367,She/her,She,aleshchk@bu.edu,aleshchk@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Bioinformatics
+230,10/12/2022 21:53:40,Trisha Gautam,Trisha,81925069,she/her,She,tgautam@bu.edu,tgautam@bu.edu,Yes,Yes,School of Law,Law
+231,10/15/2022 17:44:54,Emily Chastain,Emily,79210137,she/her,She,emilync@bu.edu,emilync@bu.edu,Yes,Yes,School of Theology,Theology 
+232,10/17/2022 21:03:49,NA YEON LIM,Nayeon,U23616859,she/her,She,nayeon@bu.edu,nayeon@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+233,10/21/2022 15:31:11,Lucila Houttuijn Bloemendaal,Lucila,74287651,she/her,She,lbloem@bu.edu,lbloem@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Earth and Environment
+234,10/21/2022 16:21:09,Luisa Fernanda Zamudio Ruvalcaba,Luisa,87995138,She/her,She,luisaz@bu.edu,luisaz@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Astronomy
+235,10/23/2022 22:34:18,Ethan Bair,Ethan,32290220,he/him/his,He,esb265@bu.edu,esb265@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Astronomy
+236,10/24/2022 10:49:06,Emma Lovett,Emma,47665615,she/her,she,elovett@bu.edu,elovett@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Astronomy
+237,10/24/2022 19:13:53,John Patrick Delavin,JP,01289956,he/him,he,jpdel@bu.edu,jpdel@bu.edu,Yes,Yes,Questrom School of Business,Questrom School of Business
+238,11/1/2022 12:10:56,Etty Singer,Etty,43843620,,she,esinger4@bu.edu,esinger4@bu.edu,Yes,Yes,School of Law,Law
+239,11/1/2022 12:10:57,Ya-Ching Huang,Ya-Ching,,,,yachuang@bu.edu,yachuang@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Sociology
+240,11/9/2022 0:34:37,Paria mirhashemian,Paria,93872849,,she,paria@bu.edu,paria@bu.edu,Yes,Yes,College of Engineering,Mechanical Engineering
+241,1/24/2023 1:44:42,Eukyung Yhang,Euky,62900535,She/her/hers,,eyhang@bu.edu,eyhang@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Biostatistics
+242,1/23/2023 17:24:59,Purna Minesh Shah,Purna,00625250,She/Her/Hers,,pshah66@bu.edu,pshah66@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,"Molecular Biology, Cell Biology & Biochemistry"
+243,1/23/2023 17:26:38,Angelina Gomez,Angelina,13148463,she/her,,afgomez@bu.edu,afgomez@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Psychology
+244,1/23/2023 17:35:00,Abhi Jain,Abhi,12677412,he/him,,jaina22@bu.edu,jaina22@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Biostatistics
+245,1/23/2023 17:36:14,Lili Vizer,Lili,08543767,she/her,,lvizer@bu.edu,lvizer@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,"Biology (EBE - ecology, behaviour, evolution)"
+246,1/23/2023 17:44:54,Yibin Yang,Yibin,35505831,He/him/his,,yyibin@bu.edu,yyibin@bu.edu,Yes,Yes,School of Social Work,Social Work
+247,1/23/2023 17:44:59,Lydia Jefferson,Lydia ,38751312,They/Them,,lydiamj@bu.edu,lydiamj@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Earth and Environment
+248,1/23/2023 17:46:51,Duncan Reehl,Duncan,32812211,he | him,,dreehl@bu.edu,dreehl@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Musicology
+249,1/27/2023 10:37:31,Ezra Cho,Ezra ,10150256,,,ezracho@bu.edu,ezracho@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+250,1/23/2023 17:53:33,Dora Balog,Dora,19006671,,,dbalog@bu.edu,dbalog@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+251,1/23/2023 17:55:08,De'Zhanae McCall-Butler,Dez,17746113,She/Her,,dmm76@bu.edu,dmm76@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Chemistry
+252,1/23/2023 17:55:38,Peter kaplan,Peter,43020849,He/him,,Pkaplan@bu.edu,Pkaplan@bu.edu,Yes,Yes,School of Law,Law
+253,1/23/2023 17:56:47,Elizabeth Y. Flores ,Liz ,00749613,She/her/hers,,eyflores@bu.edu,eyflores@bu.edu,Yes,Yes,Other,Other
+254,1/23/2023 17:57:21,Mazin Elhag,Mazin,59069308,he/him/his,,mazin1@bu.edu,mazin1@bu.edu,Yes,Yes,School of Law,Law
+255,1/23/2023 18:01:09,Ariel Kessel Akerman,Ariel,05834703,he him his,,ariaker@bu.edu,ariaker@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+256,1/23/2023 18:01:26,Amiah Ames,Amiah,48349084,she/her,,aames@bu.edu,aames@bu.edu,Yes,Yes,School of Law,Law
+257,1/23/2023 17:53:21,Justin Giglia,Justin,36142987,He/him,,Jgiglia@bu.edu,Jgiglia@bu.edu,Yes,Yes,School of Law,Law
+258,1/23/2023 18:15:39,Fiona Mon,Fiona,28517250,she/her,,fmon@bu.edu,fmon@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Chemistry
+259,1/23/2023 18:23:20,Taylor Hawkins,Taylor,66672490,she/hers,,hawkins1@bu.edu,hawkins1@bu.edu,Yes,Yes,School of Law,Law
+260,1/23/2023 18:40:24,,Karina,55105725,,,karins@bu.edu,karins@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Hispanic Language and Literature
+261,1/23/2023 20:26:04,Minh Thu Bui,Minh,81422274,She/her/hers,,minhb@bu.edu,minhb@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Mathematics
+262,1/23/2023 18:44:09,Dhruv Raman,Dhruv,80652667,He/him/his,,draman@bu.edu,draman@bu.edu,Yes,Yes,Wheelock College of Education & Human Development,Wheelock College of Education & Human Development
+263,1/23/2023 18:47:19,SYED MOHAMMAD QASIM LNU,Syed,72397994,He/him,,sqasim@bu.edu,sqasim@bu.edu,Yes,Yes,College of Engineering,Computer engineering
+264,1/23/2023 18:58:56,Roman Addokhi,Roman,08917267,He/Him,,aaddokhi@bu.edu,aaddokhi@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+265,1/23/2023 19:04:18,Ayana V. Bass,Ayana,56922420,she/her,,abass@bu.edu,abass@bu.edu,Yes,Yes,Wheelock College of Education & Human Development,Wheelock College of Education & Human Development
+266,1/23/2023 19:04:50,Jasmine Noh,Jasmine,61138344,she/her,,nohj@bu.edu,nohj@bu.edu,Yes,Yes,School of Law,Law
+267,1/23/2023 19:06:31,Andre Batchelder-Schwab,Andre,87698219,,,aschwab@bu.edu,aschwab@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Linguistics
+268,1/23/2023 23:23:12,Mattia Nicolella,Mattia,86009043,He/Him,,mnico@bu.edu,mnico@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Computer Science
+269,1/23/2023 19:07:56,Ekaterina Novozhilova,Katya,05326680,,,ekaterin@bu.edu,ekaterin@bu.edu,Yes,Yes,College of Communication,PhD in Emerging Media Studies
+270,1/23/2023 19:11:07,Ze Niu,Ze,74078707,He,,nze93@bu.edu,nze93@bu.edu,Yes,Yes,College of Engineering,Electrical Engineering
+271,1/23/2023 19:15:24,Julia Gibbs,Julia,87357028,,,jrgibbs@bu.edu,jrgibbs@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,"Molecular Biology, Cell Biology & Biochemistry"
+272,1/23/2023 19:16:54,Veronika Storozhilova,Veronika,96858699,She/her,,Storozh@bu.edu,Storozh@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Chemistry
+273,1/23/2023 19:18:57,Samad Amini,Sami,90605046,He/him/his,,Smdamini@bu.edu,Smdamini@bu.edu,Yes,Yes,College of Engineering,Systems Engineering
+274,1/23/2023 19:20:55,Ariana Azar  ,Azar ,83046225,She/her,,aghahari@bu.edu,aghahari@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Statistics
+275,1/23/2023 19:22:34,Naeemullah Salarzai,Naeem,97290508,,,Naeem123@bu.edu,Naeem123@bu.edu,Yes,Yes,Other,Other
+276,1/23/2023 19:23:23,Serraya Quinn,Serraya,92538111,She/Her/Hers,,Squinn@bu.edu,Squinn@bu.edu,Yes,Yes,School of Law,Law
+277,1/23/2023 19:27:47,Nazanin Nafisi,Naz,91366780,,,Naznfs@bu.edu,Naznfs@bu.edu,Yes,Yes,College of Engineering,Mechanical Engineering
+278,1/23/2023 19:31:20,,Yi-Jung,34683394,,,yjshen@bu.edu,yjshen@bu.edu,Yes,Yes,Other,Other
+279,1/23/2023 19:44:09,Eric South,Eric,89517361,He/him,,esouth@bu.edu,esouth@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,"Molecular Biology, Cell Biology & Biochemistry"
+280,1/24/2023 13:37:36,Marissa Russell,Marissa,94373068,she/her/hers,,mruss@bu.edu,mruss@bu.edu,Yes,Yes,Sargent College of Health and Rehabilitation Sciences,Sargent College of Health and Rehabilitation Sciences
+281,1/23/2023 19:48:29,Myra Khan,Myra,74582680,she/her,,makhan21@bu.edu,makhan21@bu.edu,Yes,Yes,School of Law,Law
+282,1/23/2023 19:53:07,Zecheng Yi,Zecheng,84636634,He/Him/His,,zeyi@bu.edu,zeyi@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Mathematics
+283,1/23/2023 19:57:32,Charis Loo,Charis,96785582,She/Her/Hers,,cloo@bu.edu,cloo@bu.edu,Yes,Yes,Questrom School of Business,Questrom School of Business
+284,1/23/2023 20:01:37,Yuting Chen,Yuting,98678462,She/Her,,yuting@bu.edu,yuting@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+285,1/23/2023 20:06:28,Aruzhan Nurlankul,Aruzhan,83503218,She/her/hers,,aruzhann@bu.edu,aruzhann@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+286,1/23/2023 20:09:47,Esra Kucuk,Esra,82240851,She,,esranurk@bu.edu,esranurk@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Psychology
+287,1/23/2023 20:16:08,Elizabeth Neill,Liz,94052064,she/her,,lizneill@bu.edu,lizneill@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,History of Art & Architecture
+288,1/23/2023 20:31:22,Haoran Pan,Haoran,48334954,,,hpan51@bu.edu,hpan51@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+289,1/23/2023 20:34:00,Monica Naranjo,Monica,12789689,She/ella,,Mnaranjo@bu.edu,Mnaranjo@bu.edu,Yes,Yes,School of Law,Law
+290,1/23/2023 19:21:34,Jared Pincus,Jared,87524798,He/him,,pincus@bu.edu,pincus@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Computer Science
+291,1/23/2023 20:48:21,Beverly Setzer,Beverly,29124967,she/her,,bsetzer@bu.edu,bsetzer@bu.edu,Yes,Yes,Other,Other
+292,1/23/2023 20:53:59,Lina Kroehling,Lina,93855497,She/her,,Lkroeh@bu.edu,Lkroeh@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Bioinformatics
+293,1/23/2023 20:57:08,Natalie Campbell,Natalie,52759930,she/her,,nbcamp@bu.edu,nbcamp@bu.edu,Yes,Yes,Other,Other
+294,1/23/2023 21:12:10,Erynne D. San Antonio,Erynne,38523676,She/her,,Esanan@bu.edu,Esanan@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+295,1/23/2023 21:28:44,Leping Wang,Leping,71940199,"She, her, hers",,lw928@bu.edu,lw928@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Sociology
+296,1/23/2023 21:39:52,Michael Zulch,Michael,87566215,,,mzulch@bu.edu,mzulch@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,"Molecular Biology, Cell Biology & Biochemistry"
+297,1/23/2023 18:21:57,Shaun Ghosh,Shaun,50745838,he/him,,shaungh@bu.edu,shaungh@bu.edu,Yes,Yes,College of Engineering,Computer engineering
+298,1/23/2023 18:21:58,Priscilla Tso,Priscilla,47007561,she/hers,,pvtso@bu.edu,pvtso@bu.edu,Yes,No,Undergraduate Degree,Undergraduate Degree
+299,1/23/2023 22:03:46,William B. Lynch,Will,96173121,He/Him/His,,wlynch@bu.edu,wlynch@bu.edu,Yes,Yes,Other,Other
+300,1/23/2023 23:04:45,Thao Phuong Nguyen,Thao,96065789,she/her,,tpnguyen@bu.edu,tpnguyen@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Sociology
+301,1/23/2023 23:09:34,Alanna Carey,Alanna,94753435,She/her,,Aecarey3@bu.edu,Aecarey3@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,"Molecular Biology, Cell Biology & Biochemistry"
+302,1/23/2023 23:36:23,Haley Gritz,Haley,55897060,she/her,,hgritz@bu.edu,hgritz@bu.edu,Yes,Yes,School of Law,Law
+303,1/25/2023 19:58:26,Jae Hyung Sim,John,44883229,he/him/his,,simjhsim@bu.edu,simjhsim@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Mathematics
+304,1/24/2023 4:03:23,Hoang P. Tran,Hoang ,70185847,He/Him,,tranhp@bu.edu,tranhp@bu.edu,Yes,Yes,College of Engineering,Electrical Engineering
+305,1/24/2023 5:34:07,Evan Shriver,Evan,64565176,He/Him,,eshriver@bu.edu,eshriver@bu.edu,Yes,Yes,School of Law,Law
+306,1/24/2023 9:00:09,Caroline Spurr,Caroline,47312580,she/her,,Caspurr@bu.edu,caspurr@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Classical Studies
+307,1/24/2023 9:32:59,Nin Rebecca Kang,Rebecca Kang,49392193,She/her,,nrkang@bu.edu,nrkang@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+308,1/24/2023 10:04:31,Connor O'Brien,Connor,26110523,he/him/his,,obrienco@bu.edu,obrienco@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Astronomy
+309,1/24/2023 10:28:38,Samantha Nadel,Samantha,64574239,she / her / hers,,srnadel@bu.edu,srnadel@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Anthropology
+310,1/23/2023 19:45:18,Shannon Kelley,Shannon ,82567886,She/her,,Smkelley@bu.edu,Smkelley@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+311,1/24/2023 10:58:12,Palak Jain,Palak,57424891,they/them/theirs,,palakj@bu.edu,palakj@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Computer Science
+312,1/24/2023 11:07:34,Tanja Maric,Tanja,74244135,She/her,,tanjam@bu.edu,tanjam@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Physics
+313,1/24/2023 12:29:49,Breanne Biondi,Breanne,97970297,she/her,,bebiondi@bu.edu,bebiondi@bu.edu,Yes,Yes,Other,Other
+314,1/24/2023 12:52:21,Jessica Garda,Jess,85652428,she/her,,gardaj@bu.edu,gardaj@bu.edu,Yes,Yes,School of Law,Law
+315,1/24/2023 13:08:00,Pamela Garcia Lopez,Pam,87589436,She/Her,,pamelagl@bu.edu,pamelagl@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Biology
+316,1/24/2023 13:23:11,Chengyang Zhu,Andy,52877984,He/him,,zhuc@bu.edu,zhuc@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Economics
+317,1/24/2023 14:16:57,Madison McMahan,MJ,08740830,she/her,,mjmcm@bu.edu,mjmcm@bu.edu,Yes,Yes,School of Law,Law
+318,1/24/2023 14:20:25,Shuo Liu,Shuo,28149952,Him,,liushuo@bu.edu,liushuo@bu.edu,Yes,Yes,College of Engineering,Mechanical Engineering
+319,1/24/2023 14:34:30,Zoe Garman,Zoe,68453004,she/her,,zgarman@bu.edu,zgarman@bu.edu,Yes,Yes,College of Engineering,Biomedical Engineering
+320,1/24/2023 20:05:56,Zaneta Soumbounou,Zaneta,57482158,she/they,,zaneta@bu.edu,zaneta@bu.edu,Yes,Yes,School of Law,Law
+321,1/24/2023 20:34:53,Ayantika Saha ,Ayantika ,54526080,she/her/hers,,ayantis@bu.edu ,ayantis@bu.edu ,Yes,Yes,Graduate School of Arts and Sciences,Physics
+322,1/24/2023 22:54:58,Alina Amvrosova ,Alina,05220894,She/her,,aliamvr@bu.edu,aliamvr@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,History
+323,1/25/2023 10:46:18,Jacob Friedemann Tischer,Jacob,94050273,he/him,,jtischer@bu.edu,jtischer@bu.edu,Yes,Yes,Graduate School of Arts and Sciences,Anthropology
+324,1/25/2023 11:06:25,Wei Zhang,Wei,98411692,Him,,Wzhang1@bu.edu,Wzhang1@bu.edu,Yes,Yes,College of Engineering,Electrical Engineering
+325,1/23/2023 21:52:41,sooyeon song,sooyeon,90511338,she her,,songsy@bu.edu,songsy@bu.edu,Yes,Yes,Other,Other
+326,1/26/2023 11:00:00,Sophia Tausanovitch,Sophie,97892401,she / her,,stausan@bu.edu,stausan@bu.edu,Yes,Yes,School of Law,Law
+327,1/23/2023 17:42:33,Jih-Cheng Yeh,Jack,19478641,he/him,,yehjih@bu.edu,yehjih@bu.edu,Yes,Yes,Other,Other
+328,1/27/2023 15:45:34,Mrinmoy Roy,Mrinmoy,07579598,He/him,,mrinmoy@bu.edu,mrinmoy@bu.edu,Yes,Yes,College of Engineering,Electrical Engineering
+329,1/27/2023 15:47:50,Harsh Gaurang Kapadia,Harsh,22820240,he/him,,harshk@bu.edu,harshk@bu.edu,Yes,No,Graduate School of Arts and Sciences,Computer Science

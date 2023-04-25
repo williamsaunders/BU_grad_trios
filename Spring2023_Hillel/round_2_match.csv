@@ -1,0 +1,33 @@
+,first_name,last_name,email,school,degree,round1,group1,round2,group2
+0,Christiana ,Kalfas,ckalfas@bu.edu,GRS,,Yes,4.0,Yes,3.0
+1,Jason,Rutberg,jrutberg@bu.edu,GRS,PhD,Yes,5.0,Yes,3.0
+2,Jared,Pincus,pincus@bu.edu,GRS,PhD,Yes,4.0,Yes,4.0
+3,Alex,Melnick,melnick@bu.edu,ENG,MA,Yes,5.0,No,
+4,Starr,Mandell,starrm@bu.edu,Sargent,Doc,Yes,2.0,No,
+5,Tiffany,Snadowsky,trsnadow@bu.edu,Dental,DDM,Yes,1.0,No,
+6,Hannah,Jacobson,hanjacob@bu.edu,SPH,MPH,Yes,4.0,No,
+7,Tzviyah,Kunitz,kusnitz@bu.edu,Wheelock,MA,Yes,2.0,Yes,1.0
+8,Ben,Canter,bcanter@bu.edu,Sargent,Doc,Yes,3.0,Yes,4.0
+9,Tsung-Han,Yu,thyu@bu.edu,GRS,,Yes,5.0,No,
+10,Erica,Schoenberg,eschoenb@bu.edu,COM,MA,Yes,1.0,No,
+11,Bhavika,Banwari,bhavikab@bu.edu,Questrom,MBA,Yes,2.0,No,
+12,Anet,Moskovich,moskanet@bu.edu,Sargent,Doc,Yes,3.0,No,
+13,Miranda,Siegel,msiegel@bu.edu,Sargent,Doc,Yes,4.0,No,
+14,Cam,Segal,csegal@bu.edu,Wheelock,MA,Yes,5.0,No,
+15,Peter,Kaplan,pkaplan@bu.edu,Law,JD,Yes,2.0,No,
+16,Dayong,Wu,dayong@bu.edu,GRS,MA,Yes,1.0,Yes,5.0
+17,Zoe,Loversky,zsl1@bu.edu,CFA,MFA,Yes,1.0,No,
+18,Brad,Nissenbaum,bradn@bu.edu,MET,MS,Yes,3.0,No,
+19,Simron,Waskar,simron@bu.edu,MET,MS,Yes,3.0,Yes,2.0
+20,Ben,Zahler,bgz2103@bu.edu,Law,JD,,,Yes,2.0
+21,Leah,Ahdoot,lahdoot@bu.edu,Dental,DMD,,,Yes,1.0
+22,Lauren,Beth Glaser,lglaserb@bu.edu,Social Work,MSW,,,Yes,3.0
+23,Lindsey,Cohen,lindseyc@bu.edu,Questrom,MBA,,,Yes,4.0
+24,Laura,Koszer,lkoszer@bu.edu,Sargent,OTD,,,Yes,1.0
+25,Nate,Kruger,npkruger@bu.edu,Theology,MA,,,Yes,2.0
+26,Jenna,Rodier,rodier@bu.edu,ENG,MS,,,Yes,3.0
+27,Shlomi,Hod,shlomi@bu.edu,GRS,PhD,,,Yes,2.0
+28,Sitong ,Jiang ,sitongj@bu.edu,Law,LLM,,,Yes,1.0
+29,Sami,Samad,smdamini@bu.edu,GRS,PhD,,,Yes,4.0
+30,Talia,Liu,talialiu@bu.edu,Sargent,PhD,,,Yes,5.0
+31,Tom,Fischer,tfischer@bu.edu,Law,JD,,,Yes,5.0

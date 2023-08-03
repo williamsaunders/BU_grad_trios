@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pandas
+openpyxl
+ipywidgets
+IPython
+pybase64
+pickle
+email
+ssl
+smtplib
+gspread

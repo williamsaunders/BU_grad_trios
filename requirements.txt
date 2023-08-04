@@ -5,7 +5,4 @@ openpyxl
 ipywidgets
 IPython
 pybase64
-email
-ssl
-smtplib
 gspread
